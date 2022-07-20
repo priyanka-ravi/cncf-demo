@@ -6,3 +6,5 @@ resources:
 - weave-gitops-sync.yaml
 - podinfo-sync.yaml
 - tf-controller.yaml
+- hello-world-source.yaml
+- hello-world-terraform.yaml
